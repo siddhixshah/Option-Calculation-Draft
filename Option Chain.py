@@ -109,4 +109,3 @@ if run_button:
     st.caption("📈 This simulation is illustrative and not financial advice.")
 else:
     st.info("👈 Adjust parameters on the sidebar and click **Run Simulation** to start.")
-
